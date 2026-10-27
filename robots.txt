@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quiosque-ponto-de-encontro-toninhas.vercel.app/sitemap.xml
